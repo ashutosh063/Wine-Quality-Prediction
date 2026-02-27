@@ -49,3 +49,4 @@ The dataset used for this project is the **Wine Quality Dataset**. It contains 1
 ## 🏆 Results
 
 After evaluating the models, the **Random Forest Classifier** outperformed Logistic Regression, making it the final model chosen for the web application deployment.
+
