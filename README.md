@@ -38,7 +38,7 @@ The dataset used for this project is the **Wine Quality Dataset**. It contains 1
 
 ## 🚀 How to Run Locally
 1. **Clone the repository:**
-   `git clone https://github.com/YourUsername/Wine-Quality-Prediction.git`
+   `git clone https://github.com/ashutosh063/Wine-Quality-Prediction.git`
 2. **Navigate to the project directory:**
    `cd Wine-Quality-Prediction`
 3. **Install the required dependencies:**
@@ -47,4 +47,5 @@ The dataset used for this project is the **Wine Quality Dataset**. It contains 1
    `streamlit run app.py`
 
 ## 🏆 Results
+
 After evaluating the models, the **Random Forest Classifier** outperformed Logistic Regression, making it the final model chosen for the web application deployment.
